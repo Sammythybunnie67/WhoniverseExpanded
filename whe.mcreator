@@ -1,0 +1,1474 @@
+{
+  "mod_elements": [
+    {
+      "name": "HeroArmor",
+      "type": "armor",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hero_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "HeroArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hero_armor_helmet_recipe"
+    },
+    {
+      "name": "HeroArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hero_armor_body_recipe"
+    },
+    {
+      "name": "HeroArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hero_armor_leggings_recipe"
+    },
+    {
+      "name": "HeroArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hero_armor_boots_recipe"
+    },
+    {
+      "name": "Steel",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel"
+    },
+    {
+      "name": "Ingots",
+      "type": "tab",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ingots"
+    },
+    {
+      "name": "Steelrecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steelrecipe"
+    },
+    {
+      "name": "SteePickaxe",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stee_pickaxe"
+    },
+    {
+      "name": "SteeAxe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stee_axe"
+    },
+    {
+      "name": "SteeSword",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stee_sword"
+    },
+    {
+      "name": "SteeShovel",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stee_shovel"
+    },
+    {
+      "name": "SteeHoe",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stee_hoe"
+    },
+    {
+      "name": "SteePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stee_pickaxe_recipe"
+    },
+    {
+      "name": "SteeAxeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stee_axe_recipe"
+    },
+    {
+      "name": "SteeSwordRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stee_sword_recipe"
+    },
+    {
+      "name": "SteeShovelRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stee_shovel_recipe"
+    },
+    {
+      "name": "SteeHoeRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stee_hoe_recipe"
+    },
+    {
+      "name": "StainlessSteelArmor",
+      "type": "armor",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stainless_steel_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "StainlessSteelArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stainless_steel_armor_helmet_recipe"
+    },
+    {
+      "name": "StainlessSteelArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stainless_steel_armor_body_recipe"
+    },
+    {
+      "name": "StainlessSteelArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stainless_steel_armor_leggings_recipe"
+    },
+    {
+      "name": "StainlessSteelArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stainless_steel_armor_boots_recipe"
+    },
+    {
+      "name": "FullConversion",
+      "type": "achievement",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "full_conversion"
+    },
+    {
+      "name": "RubyOre",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_ore"
+    },
+    {
+      "name": "Ruby",
+      "type": "item",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby"
+    },
+    {
+      "name": "DalekaniumIngot",
+      "type": "item",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dalekanium_ingot"
+    },
+    {
+      "name": "DalekaniumOre",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dalekanium_ore"
+    },
+    {
+      "name": "DalekaniumBlock",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dalekanium_block"
+    },
+    {
+      "name": "DalekaniumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dalekanium_ore_block_recipe"
+    },
+    {
+      "name": "DalekaniumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dalekanium_block_ore_recipe"
+    },
+    {
+      "name": "DalekaniumOreSmelting",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dalekanium_ore_smelting"
+    },
+    {
+      "name": "DalekaniumArmor",
+      "type": "armor",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dalekanium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "DalekaniumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dalekanium_armor_helmet_recipe"
+    },
+    {
+      "name": "DalekaniumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dalekanium_armor_body_recipe"
+    },
+    {
+      "name": "DalekaniumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dalekanium_armor_leggings_recipe"
+    },
+    {
+      "name": "DalekaniumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dalekanium_armor_boots_recipe"
+    },
+    {
+      "name": "RawDalekanium",
+      "type": "item",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_dalekanium"
+    },
+    {
+      "name": "DeepslateDalekaniumOre",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_dalekanium_ore"
+    },
+    {
+      "name": "Rawdalekaniumcook",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rawdalekaniumcook"
+    },
+    {
+      "name": "RawExtermisteelAlloy",
+      "type": "item",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_extermisteel_alloy"
+    },
+    {
+      "name": "ExtermisteelIngot",
+      "type": "item",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "extermisteel_ingot"
+    },
+    {
+      "name": "ExtermisteelPickaxe",
+      "type": "tool",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "extermisteel_pickaxe"
+    },
+    {
+      "name": "ExtermisteelAxe",
+      "type": "tool",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "extermisteel_axe"
+    },
+    {
+      "name": "ExtermisteelSword",
+      "type": "tool",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "extermisteel_sword"
+    },
+    {
+      "name": "ExtermisteelShovel",
+      "type": "tool",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "extermisteel_shovel"
+    },
+    {
+      "name": "ExtermisteelHoe",
+      "type": "tool",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "extermisteel_hoe"
+    },
+    {
+      "name": "ExtermisteelPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "extermisteel_pickaxe_recipe"
+    },
+    {
+      "name": "ExtermisteelAxeRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "extermisteel_axe_recipe"
+    },
+    {
+      "name": "ExtermisteelSwordRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "extermisteel_sword_recipe"
+    },
+    {
+      "name": "ExtermisteelShovelRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "extermisteel_shovel_recipe"
+    },
+    {
+      "name": "ExtermisteelHoeRecipe",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "extermisteel_hoe_recipe"
+    },
+    {
+      "name": "Alloysteeldalek",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alloysteeldalek"
+    },
+    {
+      "name": "DalekaniumPickaxe",
+      "type": "tool",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dalekanium_pickaxe"
+    },
+    {
+      "name": "DalekaniumAxe",
+      "type": "tool",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dalekanium_axe"
+    },
+    {
+      "name": "DalekaniumSword",
+      "type": "tool",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dalekanium_sword"
+    },
+    {
+      "name": "DalekaniumShovel",
+      "type": "tool",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dalekanium_shovel"
+    },
+    {
+      "name": "DalekaniumHoe",
+      "type": "tool",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dalekanium_hoe"
+    },
+    {
+      "name": "DalekaniumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dalekanium_pickaxe_recipe"
+    },
+    {
+      "name": "DalekaniumAxeRecipe",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dalekanium_axe_recipe"
+    },
+    {
+      "name": "DalekaniumSwordRecipe",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dalekanium_sword_recipe"
+    },
+    {
+      "name": "DalekaniumShovelRecipe",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dalekanium_shovel_recipe"
+    },
+    {
+      "name": "DalekaniumHoeRecipe",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dalekanium_hoe_recipe"
+    },
+    {
+      "name": "Cyberman",
+      "type": "livingentity",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyberman"
+    },
+    {
+      "name": "RubArmor",
+      "type": "armor",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rub_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "RubArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rub_armor_helmet_recipe"
+    },
+    {
+      "name": "RubArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rub_armor_body_recipe"
+    },
+    {
+      "name": "RubArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rub_armor_leggings_recipe"
+    },
+    {
+      "name": "RubArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rub_armor_boots_recipe"
+    },
+    {
+      "name": "RubPickaxe",
+      "type": "tool",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rub_pickaxe"
+    },
+    {
+      "name": "RubAxe",
+      "type": "tool",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rub_axe"
+    },
+    {
+      "name": "RubSword",
+      "type": "tool",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rub_sword"
+    },
+    {
+      "name": "RubShovel",
+      "type": "tool",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rub_shovel"
+    },
+    {
+      "name": "RubHoe",
+      "type": "tool",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rub_hoe"
+    },
+    {
+      "name": "RubPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rub_pickaxe_recipe"
+    },
+    {
+      "name": "RubAxeRecipe",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rub_axe_recipe"
+    },
+    {
+      "name": "RubSwordRecipe",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rub_sword_recipe"
+    },
+    {
+      "name": "RubShovelRecipe",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rub_shovel_recipe"
+    },
+    {
+      "name": "RubHoeRecipe",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rub_hoe_recipe"
+    },
+    {
+      "name": "CyberchargeProjectileHitsBlock",
+      "type": "procedure",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cybercharge_projectile_hits_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CherryBlossomWood",
+      "type": "block",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_blossom_wood"
+    },
+    {
+      "name": "CherryBlossomLog",
+      "type": "block",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_blossom_log"
+    },
+    {
+      "name": "CherryBlossomPlanks",
+      "type": "block",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_blossom_planks"
+    },
+    {
+      "name": "CherryBlossomLeaves",
+      "type": "block",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_blossom_leaves"
+    },
+    {
+      "name": "CherryBlossomStairs",
+      "type": "block",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_blossom_stairs"
+    },
+    {
+      "name": "CherryBlossomSlab",
+      "type": "block",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_blossom_slab"
+    },
+    {
+      "name": "CherryBlossomFence",
+      "type": "block",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_blossom_fence"
+    },
+    {
+      "name": "CherryBlossomFenceGate",
+      "type": "block",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_blossom_fence_gate"
+    },
+    {
+      "name": "CherryBlossomPressurePlate",
+      "type": "block",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_blossom_pressure_plate"
+    },
+    {
+      "name": "CherryBlossomButton",
+      "type": "block",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_blossom_button"
+    },
+    {
+      "name": "CherryBlossomItemsTag",
+      "type": "tag",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_blossom_items_tag"
+    },
+    {
+      "name": "CherryBlossomWoodRecipe",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_blossom_wood_recipe"
+    },
+    {
+      "name": "CherryBlossomPlanksRecipe",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_blossom_planks_recipe"
+    },
+    {
+      "name": "CherryBlossomStairsRecipe",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_blossom_stairs_recipe"
+    },
+    {
+      "name": "CherryBlossomSlabRecipe",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_blossom_slab_recipe"
+    },
+    {
+      "name": "CherryBlossomFenceRecipe",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_blossom_fence_recipe"
+    },
+    {
+      "name": "CherryBlossomFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_blossom_fence_gate_recipe"
+    },
+    {
+      "name": "CherryBlossomPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_blossom_pressure_plate_recipe"
+    },
+    {
+      "name": "CherryBlossomButtonRecipe",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_blossom_button_recipe"
+    },
+    {
+      "name": "CherryBlossomStickRecipe",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_blossom_stick_recipe"
+    },
+    {
+      "name": "BlackOpal",
+      "type": "item",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_opal"
+    },
+    {
+      "name": "BlackOpalOre",
+      "type": "block",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_opal_ore"
+    },
+    {
+      "name": "BlackOpalBlock",
+      "type": "block",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_opal_block"
+    },
+    {
+      "name": "BlackOpalOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_opal_ore_block_recipe"
+    },
+    {
+      "name": "BlackOpalBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_opal_block_ore_recipe"
+    },
+    {
+      "name": "BlackOpalOreSmelting",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_opal_ore_smelting"
+    },
+    {
+      "name": "BlackOpalPickaxe",
+      "type": "tool",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_opal_pickaxe"
+    },
+    {
+      "name": "BlackOpalAxe",
+      "type": "tool",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_opal_axe"
+    },
+    {
+      "name": "BlackOpalSword",
+      "type": "tool",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_opal_sword"
+    },
+    {
+      "name": "BlackOpalShovel",
+      "type": "tool",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_opal_shovel"
+    },
+    {
+      "name": "BlackOpalHoe",
+      "type": "tool",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_opal_hoe"
+    },
+    {
+      "name": "BlackOpalPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_opal_pickaxe_recipe"
+    },
+    {
+      "name": "BlackOpalAxeRecipe",
+      "type": "recipe",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_opal_axe_recipe"
+    },
+    {
+      "name": "BlackOpalSwordRecipe",
+      "type": "recipe",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_opal_sword_recipe"
+    },
+    {
+      "name": "BlackOpalShovelRecipe",
+      "type": "recipe",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_opal_shovel_recipe"
+    },
+    {
+      "name": "BlackOpalHoeRecipe",
+      "type": "recipe",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_opal_hoe_recipe"
+    },
+    {
+      "name": "BlackOpalArmor",
+      "type": "armor",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_opal_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "BlackOpalArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_opal_armor_helmet_recipe"
+    },
+    {
+      "name": "BlackOpalArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_opal_armor_body_recipe"
+    },
+    {
+      "name": "BlackOpalArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_opal_armor_leggings_recipe"
+    },
+    {
+      "name": "BlackOpalArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_opal_armor_boots_recipe"
+    },
+    {
+      "name": "Cybercharge",
+      "type": "rangeditem",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cybercharge"
+    },
+    {
+      "name": "Dalek",
+      "type": "livingentity",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dalek"
+    },
+    {
+      "name": "SonicInteraction",
+      "type": "procedure",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sonic_interaction",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SonicScrewdriver",
+      "type": "item",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sonic_screwdriver"
+    },
+    {
+      "name": "MondassSnowbiome",
+      "type": "biome",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mondass_snowbiome"
+    },
+    {
+      "name": "Mondas",
+      "type": "dimension",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mondas",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "BeskarIngot",
+      "type": "item",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beskar_ingot"
+    },
+    {
+      "name": "BeskarOre",
+      "type": "block",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beskar_ore"
+    },
+    {
+      "name": "BeskarBlock",
+      "type": "block",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beskar_block"
+    },
+    {
+      "name": "BeskarOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beskar_ore_block_recipe"
+    },
+    {
+      "name": "BeskarBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beskar_block_ore_recipe"
+    },
+    {
+      "name": "BeskarOreSmelting",
+      "type": "recipe",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beskar_ore_smelting"
+    },
+    {
+      "name": "BeskarPickaxe",
+      "type": "tool",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beskar_pickaxe"
+    },
+    {
+      "name": "BeskarAxe",
+      "type": "tool",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beskar_axe"
+    },
+    {
+      "name": "BeskarSword",
+      "type": "tool",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beskar_sword"
+    },
+    {
+      "name": "BeskarShovel",
+      "type": "tool",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beskar_shovel"
+    },
+    {
+      "name": "BeskarHoe",
+      "type": "tool",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beskar_hoe"
+    },
+    {
+      "name": "BeskarPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beskar_pickaxe_recipe"
+    },
+    {
+      "name": "BeskarAxeRecipe",
+      "type": "recipe",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beskar_axe_recipe"
+    },
+    {
+      "name": "BeskarSwordRecipe",
+      "type": "recipe",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beskar_sword_recipe"
+    },
+    {
+      "name": "BeskarShovelRecipe",
+      "type": "recipe",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beskar_shovel_recipe"
+    },
+    {
+      "name": "BeskarHoeRecipe",
+      "type": "recipe",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beskar_hoe_recipe"
+    },
+    {
+      "name": "BeskarArmor",
+      "type": "armor",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beskar_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "BeskarArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beskar_armor_helmet_recipe"
+    },
+    {
+      "name": "BeskarArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beskar_armor_body_recipe"
+    },
+    {
+      "name": "BeskarArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beskar_armor_leggings_recipe"
+    },
+    {
+      "name": "BeskarArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beskar_armor_boots_recipe"
+    },
+    {
+      "name": "Mandalore",
+      "type": "dimension",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mandalore",
+      "metadata": {
+        "ep": false
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "cyberwalk",
+      "files": [
+        "174_stomp.wav"
+      ],
+      "category": "hostile",
+      "subtitle": ""
+    },
+    {
+      "name": "cybersay",
+      "files": [
+        "219_you_will_be_deleted.wav"
+      ],
+      "category": "hostile",
+      "subtitle": "delete "
+    },
+    {
+      "name": "cybershoot",
+      "files": [
+        "176_zap_single.wav"
+      ],
+      "category": "hostile",
+      "subtitle": "pew pew pew"
+    },
+    {
+      "name": "cybertheme",
+      "files": [
+        "doctor_who_-_music_-_the_cybermen_online-audio-converter.com"
+      ],
+      "category": "music",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.whe.beskar_hoe": "Beskar Hoe",
+      "block.ores_extended.dalekanium_block": "Block of Dalekanium",
+      "subtitles.cybersay": "delete ",
+      "item.ores_extended.extermisteel_shovel": "Extermisteel Shovel",
+      "item.ores_extended.steel": "Steel",
+      "advancements.full_conversion.descr": "obtain a full set of steel armor",
+      "item.whe.beskar_armor_helmet": "Beskar Helmet",
+      "item.ores_extended.cyberman_spawn_egg": "Cyberman Spawn Egg",
+      "item.whe.stee_hoe": "SteelHoe",
+      "item.ores_extended.extermisteel_ingot": "Extermisteel Ingot",
+      "block.whe.black_opal_ore": "BlackOpal Ore",
+      "item.ores_extended.extermisteel_pickaxe": "Extermisteel Pickaxe",
+      "item.whe.hero_armor_helmet": "Hero Helmet",
+      "item.whe.stee_shovel": "Steel Shovel",
+      "item.whe.extermisteel_hoe": "Extermisteel Hoe",
+      "item.whe.ruby": "Ruby",
+      "item.ores_extended.steel_axe": "Steel Axe",
+      "item.ores_extended.hero_armor_chestplate": "Hero Chestplate",
+      "item.ores_extended.dalekanium_axe": "Dalekanium Axe",
+      "item.whe.stee_axe": "Steel Axe",
+      "block.whe.cherry_blossom_slab": "CherryBlossom Slab",
+      "block.whe.deepslate_dalekanium_ore": "Deepslate Dalekanium Ore",
+      "item.whe.rub_armor_boots": "Ruby Boots",
+      "block.whe.cherry_blossom_pressure_plate": "CherryBlossom Pressure Plate",
+      "item.whe.stee_pickaxe": "Steel Pickaxe",
+      "block.whe.black_opal_block": "Block of BlackOpal",
+      "item.ores_extended.extermisteel_axe": "Extermisteel Axe",
+      "subtitles.cybertheme": "",
+      "item.ores_extended.stee_axe": "Steel Axe",
+      "subtitles.cyberwalk": "",
+      "item.whe.black_opal_axe": "BlackOpal Axe",
+      "item.whe.stainless_steel_armor_helmet": "Steel Helmet",
+      "block.whe.cherry_blossom_planks": "CherryBlossom Planks",
+      "item.ores_extended.steel_shovel": "Steel Shovel",
+      "item.whe.black_opal_pickaxe": "BlackOpal Pickaxe",
+      "item.whe.rub_hoe": "Ruby Hoe",
+      "item.whe.dalekanium_pickaxe": "Dalekanium Pickaxe",
+      "item.whe.stainless_steel_armor_chestplate": "Steel Chestplate",
+      "item.ores_extended.raw_dalekanium": "Raw Dalekanium",
+      "itemGroup.tabingots": "Ingots",
+      "item.whe.hero_armor_boots": "Hero Boots",
+      "item.ores_extended.dalekanium_pickaxe": "Dalekanium Pickaxe",
+      "item.whe.black_opal_armor_helmet": "Black Opal Helmet",
+      "block.whe.beskar_ore": "Beskar Ore",
+      "item.whe.raw_extermisteel_alloy": "Raw Extermisteel Alloy",
+      "item.ores_extended.dalekanium_shovel": "Dalekanium Shovel",
+      "item.whe.dalekanium_armor_leggings": "Dalekanium Leggings",
+      "item.whe.extermisteel_sword": "Extermisteel Sword",
+      "block.ores_extended.deepslate_dalekanium_ore": "Deepslate Dalekanium Ore",
+      "item.whe.dalekanium_sword": "Dalekanium Sword",
+      "entity.whe.dalek": "Dalek {WIP}",
+      "item.whe.beskar_armor_chestplate": "Beskar Chestplate",
+      "item.whe.hero_armor_chestplate": "Hero Chestplate",
+      "block.whe.cherry_blossom_log": "CherryBlossom Log",
+      "item.ores_extended.stee_shovel": "Steel Shovel",
+      "item.whe.mondas": "Mondas Portal Igniter",
+      "item.whe.extermisteel_pickaxe": "Extermisteel Pickaxe",
+      "item.whe.rub_pickaxe": "Ruby Pickaxe",
+      "item.whe.stainless_steel_armor_boots": "Steel Boots",
+      "item.whe.black_opal_hoe": "BlackOpal Hoe",
+      "item.ores_extended.stee_sword": "Steel Sword",
+      "item.whe.rub_armor_leggings": "Ruby Leggings",
+      "item.whe.rub_axe": "Ruby Axe",
+      "item.ores_extended.hero_armor_helmet": "Hero Helmet",
+      "item.whe.extermisteel_axe": "Extermisteel Axe",
+      "item.ores_extended.stee_pickaxe": "Steel Pickaxe",
+      "item.ores_extended.steel_pickaxe": "Steel Pickaxe",
+      "item.ores_extended.steel_sword": "Steel Sword",
+      "subtitles.cybershoot": "pew pew pew",
+      "item.ores_extended.hero_armor_boots": "Hero Boots",
+      "item.ores_extended.ruby": "Ruby",
+      "item.ores_extended.extermisteel_hoe": "Extermisteel Hoe",
+      "item.whe.rub_armor_chestplate": "Ruby Chestplate",
+      "item.whe.black_opal_armor_boots": "Black Opal Boots",
+      "item.whe.beskar_sword": "Beskar Sword",
+      "advancements.full_conversion.title": "Full Conversion",
+      "item.whe.hero_armor_leggings": "Hero Leggings",
+      "entity.ores_extended.cyberman": "Cyberman",
+      "item.whe.beskar_pickaxe": "Beskar Pickaxe",
+      "item.whe.dalekanium_axe": "Dalekanium Axe",
+      "item.whe.dalekanium_shovel": "Dalekanium Shovel",
+      "block.whe.ruby_ore": "Ruby Ore",
+      "block.whe.cherry_blossom_wood": "CherryBlossom Wood",
+      "block.whe.cherry_blossom_fence_gate": "CherryBlossom Fence Gate",
+      "item.whe.dalekanium_armor_helmet": "Dalekanium Helmet",
+      "item.whe.sonic_screwdriver": "Sonic Screwdriver",
+      "item.ores_extended.raw_extermisteel_alloy": "Raw Extermisteel Alloy",
+      "item.ores_extended.dalekanium_armor_helmet": "Dalekanium Helmet",
+      "item.ores_extended.dalekanium_armor_boots": "Dalekanium Boots",
+      "item.whe.black_opal": "BlackOpal",
+      "item.ores_extended.stainless_steel_armor_boots": "Steel Boots",
+      "item.whe.rub_sword": "Ruby Sword",
+      "item.whe.beskar_ingot": "Beskar",
+      "item.whe.black_opal_armor_chestplate": "Black Opal Chestplate",
+      "block.whe.cherry_blossom_button": "CherryBlossom Button",
+      "block.whe.cherry_blossom_stairs": "CherryBlossom Stairs",
+      "item.ores_extended.stainless_steel_armor_leggings": "Steel Leggings",
+      "entity.whe.cyberman": "Cyberman",
+      "block.whe.beskar_block": "Block of Beskar",
+      "subtitles.cyberman": "sound",
+      "block.ores_extended.ruby_ore": "Ruby Ore",
+      "item.whe.raw_dalekanium": "Raw Dalekanium",
+      "item.ores_extended.dalekanium_armor_leggings": "Dalekanium Leggings",
+      "item.ores_extended.hero_armor_leggings": "Hero Leggings",
+      "item.whe.stainless_steel_armor_leggings": "Steel Leggings",
+      "item.whe.beskar_shovel": "Beskar Shovel",
+      "item.whe.dalekanium_armor_boots": "Dalekanium Boots",
+      "item.whe.cybercharge": "Laser",
+      "item.ores_extended.dalekanium_sword": "Dalekanium Sword",
+      "block.whe.dalekanium_block": "Block of Dalekanium",
+      "item.whe.mandalore": "Mandalore Portal Igniter",
+      "item.whe.extermisteel_shovel": "Extermisteel Shovel",
+      "item.whe.rub_shovel": "Ruby Shovel",
+      "item.whe.beskar_armor_leggings": "Beskar Leggings",
+      "item.ores_extended.stainless_steel_armor_chestplate": "Steel Chestplate",
+      "item.ores_extended.steel_hoe": "Steel Hoe",
+      "item.ores_extended.cybercharge": "Cybercharge",
+      "biome.whe.mondass_snowbiome": "Mondass Snowbiome",
+      "item.whe.beskar_axe": "Beskar Axe",
+      "item.whe.stee_sword": "Steel Sword",
+      "item.whe.black_opal_sword": "BlackOpal Sword",
+      "block.whe.cherry_blossom_leaves": "CherryBlossom Leaves",
+      "block.whe.cherry_blossom_fence": "CherryBlossom Fence",
+      "item.whe.black_opal_armor_leggings": "Black Opal Leggings",
+      "item.whe.steel": "Steel",
+      "item.whe.dalekanium_hoe": "Dalekanium Hoe",
+      "item.ores_extended.stee_hoe": "SteelHoe",
+      "item.whe.dalek_spawn_egg": "Dalek {WIP} Spawn Egg",
+      "item.whe.dalekanium_armor_chestplate": "Dalekanium Chestplate",
+      "item.whe.dalekanium_ingot": "Dalekanium",
+      "item.ores_extended.stainless_steel_armor_helmet": "Steel Helmet",
+      "item.whe.beskar_armor_boots": "Beskar Boots",
+      "item.ores_extended.dalekanium_armor_chestplate": "Dalekanium Chestplate",
+      "item.whe.extermisteel_ingot": "Extermisteel Ingot",
+      "item.whe.black_opal_shovel": "BlackOpal Shovel",
+      "item.ores_extended.dalekanium_ingot": "Dalekanium",
+      "block.ores_extended.dalekanium_ore": "Dalekanium Ore",
+      "item.ores_extended.extermisteel_sword": "Extermisteel Sword",
+      "item.ores_extended.dalekanium_hoe": "Dalekanium Hoe",
+      "item.whe.cyberman_spawn_egg": "Cyberman Spawn Egg",
+      "block.whe.dalekanium_ore": "Dalekanium Ore",
+      "item.whe.rub_armor_helmet": "Ruby Helmet"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "code",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "whe",
+    "modName": "Whoniverse Expanded",
+    "version": "0.2.1b",
+    "description": "This mod adds tons of cool items as well as the cybermen.",
+    "author": "Sammi",
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.sammicore.whoniversexpanded",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}
